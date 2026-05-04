@@ -128,7 +128,7 @@ uyarısı gösterilir.
 
 ![ÜYE KAYIT](./ekran_goruntuleri/üyekayıtoluşturma4.png)
 
--Tüm bilgiler doğru girildiğinde:
+- Tüm bilgiler doğru girildiğinde:
 - “Kayıt işlemi tamamlandı!” mesajı gösterilir ve kullanıcı sisteme kaydedilir.
 
 ----
@@ -140,7 +140,7 @@ uyarısı gösterilir.
  
 ![DOKTOR SEÇME](./ekran_goruntuleri/doktorgirişdoktorseme2.png)
 
-- ,Açılır listede sistemde kayıtlı tüm doktorlar ve branşları görüntülenir, istenilen doktor seçilir.
+- Açılır listede sistemde kayıtlı tüm doktorlar ve branşları görüntülenir, istenilen doktor seçilir.
   
 ![DOKTOR ŞİFRE](./ekran_goruntuleri/seçilendoktorşifresi3.png)
 
@@ -181,7 +181,7 @@ uyarısı gösterilir.
   
 ![DOKTOR SİLME](./ekran_goruntuleri/doktorsilmeuyarıs2.png)
 
--  Onay verildiğinde doktor sistemden silinir ve işlem başarılı mesajı gösterilir.
+- Onay verildiğinde doktor sistemden silinir ve işlem başarılı mesajı gösterilir.
 
 ----
 
@@ -218,7 +218,7 @@ uyarısı gösterilir.
 
 ### 📅 Randevu Silme
 
-![Randevusilme](./ekran_goruntuleri/randevusilmeonayı.png)
+![Randevusilme](./ekran_goruntuleri/randevusilmeonay1ı.png)
 
 - Kullanıcı seçtiği randevuyu silmek istediğinde sistem işlemi gerçekleştirmeden önce onay mesajı gösterir.
 
